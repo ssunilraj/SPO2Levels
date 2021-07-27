@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1627346241,,"wq!"
+|2,0,1627347263,,"wq!"
 :wq
 |2,0,1627180308,,"wq"
 :q
@@ -36,28 +36,32 @@
 |3,0,1,0,1,0,1627000181,"w"
 
 # File marks:
-'0  1  31  ~/README.md
-|4,48,1,31,1627346241,"~/README.md"
-'1  2  28  ~/DMAWorkbook/Merge/CntPolling.html
-|4,49,2,28,1627262801,"~/DMAWorkbook/Merge/CntPolling.html"
-'2  2  28  ~/DMAWorkbook/Merge/CntPolling.html
-|4,50,2,28,1627262431,"~/DMAWorkbook/Merge/CntPolling.html"
-'3  1  4  ~/DMAWorkbook/sunilGitIgnore/sunlog1.txt
-|4,51,1,4,1627180308,"~/DMAWorkbook/sunilGitIgnore/sunlog1.txt"
-'4  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
-|4,52,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
-'5  1  0  ~/DMAWorkbook/.gitignore
-|4,53,1,0,1627179768,"~/DMAWorkbook/.gitignore"
-'6  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,54,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
-'7  2  9  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,55,2,9,1627176653,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
-'8  2  9  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,56,2,9,1627176653,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
-'9  3  0  ~/DMAWorkbook/RemoveFileFromSTagingArea/yellow.html
-|4,57,3,0,1627000478,"~/DMAWorkbook/RemoveFileFromSTagingArea/yellow.html"
+'0  2  3  ~/README.md
+|4,48,2,3,1627347263,"~/README.md"
+'1  1  31  ~/README.md
+|4,49,1,31,1627346241,"~/README.md"
+'2  1  31  ~/README.md
+|4,50,1,31,1627346241,"~/README.md"
+'3  2  28  ~/DMAWorkbook/Merge/CntPolling.html
+|4,51,2,28,1627262801,"~/DMAWorkbook/Merge/CntPolling.html"
+'4  2  28  ~/DMAWorkbook/Merge/CntPolling.html
+|4,52,2,28,1627262431,"~/DMAWorkbook/Merge/CntPolling.html"
+'5  1  4  ~/DMAWorkbook/sunilGitIgnore/sunlog1.txt
+|4,53,1,4,1627180308,"~/DMAWorkbook/sunilGitIgnore/sunlog1.txt"
+'6  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,54,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+'7  1  0  ~/DMAWorkbook/.gitignore
+|4,55,1,0,1627179768,"~/DMAWorkbook/.gitignore"
+'8  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
+|4,56,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
+'9  2  9  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
+|4,57,2,9,1627176653,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
 
 # Jumplist (newest first):
+-'  2  3  ~/README.md
+|4,39,2,3,1627347263,"~/README.md"
+-'  1  31  ~/README.md
+|4,39,1,31,1627347248,"~/README.md"
 -'  1  31  ~/README.md
 |4,39,1,31,1627346241,"~/README.md"
 -'  2  28  ~/DMAWorkbook/Merge/CntPolling.html
@@ -65,6 +69,14 @@
 -'  2  28  ~/DMAWorkbook/Merge/CntPolling.html
 |4,39,2,28,1627262801,"~/DMAWorkbook/Merge/CntPolling.html"
 -'  2  28  ~/DMAWorkbook/Merge/CntPolling.html
+|4,39,2,28,1627262801,"~/DMAWorkbook/Merge/CntPolling.html"
+-'  2  28  ~/DMAWorkbook/Merge/CntPolling.html
+|4,39,2,28,1627262801,"~/DMAWorkbook/Merge/CntPolling.html"
+-'  2  28  ~/DMAWorkbook/Merge/CntPolling.html
+|4,39,2,28,1627262431,"~/DMAWorkbook/Merge/CntPolling.html"
+-'  2  28  ~/DMAWorkbook/Merge/CntPolling.html
+|4,39,2,28,1627262431,"~/DMAWorkbook/Merge/CntPolling.html"
+-'  2  28  ~/DMAWorkbook/Merge/CntPolling.html
 |4,39,2,28,1627262431,"~/DMAWorkbook/Merge/CntPolling.html"
 -'  2  28  ~/DMAWorkbook/Merge/CntPolling.html
 |4,39,2,28,1627262431,"~/DMAWorkbook/Merge/CntPolling.html"
@@ -76,6 +88,30 @@
 |4,39,1,0,1627262417,"~/DMAWorkbook/Merge/CntPolling.html"
 -'  1  0  ~/DMAWorkbook/Merge/CntPolling.html
 |4,39,1,0,1627262417,"~/DMAWorkbook/Merge/CntPolling.html"
+-'  1  0  ~/DMAWorkbook/Merge/CntPolling.html
+|4,39,1,0,1627262417,"~/DMAWorkbook/Merge/CntPolling.html"
+-'  1  0  ~/DMAWorkbook/Merge/CntPolling.html
+|4,39,1,0,1627262417,"~/DMAWorkbook/Merge/CntPolling.html"
+-'  1  0  ~/DMAWorkbook/Merge/CntPolling.html
+|4,39,1,0,1627262417,"~/DMAWorkbook/Merge/CntPolling.html"
+-'  1  0  ~/DMAWorkbook/Merge/CntPolling.html
+|4,39,1,0,1627262417,"~/DMAWorkbook/Merge/CntPolling.html"
+-'  1  4  ~/DMAWorkbook/sunilGitIgnore/sunlog1.txt
+|4,39,1,4,1627180308,"~/DMAWorkbook/sunilGitIgnore/sunlog1.txt"
+-'  1  4  ~/DMAWorkbook/sunilGitIgnore/sunlog1.txt
+|4,39,1,4,1627180308,"~/DMAWorkbook/sunilGitIgnore/sunlog1.txt"
+-'  1  4  ~/DMAWorkbook/sunilGitIgnore/sunlog1.txt
+|4,39,1,4,1627180308,"~/DMAWorkbook/sunilGitIgnore/sunlog1.txt"
+-'  1  4  ~/DMAWorkbook/sunilGitIgnore/sunlog1.txt
+|4,39,1,4,1627180308,"~/DMAWorkbook/sunilGitIgnore/sunlog1.txt"
+-'  1  4  ~/DMAWorkbook/sunilGitIgnore/sunlog1.txt
+|4,39,1,4,1627180308,"~/DMAWorkbook/sunilGitIgnore/sunlog1.txt"
+-'  1  4  ~/DMAWorkbook/sunilGitIgnore/sunlog1.txt
+|4,39,1,4,1627180308,"~/DMAWorkbook/sunilGitIgnore/sunlog1.txt"
+-'  1  4  ~/DMAWorkbook/sunilGitIgnore/sunlog1.txt
+|4,39,1,4,1627180308,"~/DMAWorkbook/sunilGitIgnore/sunlog1.txt"
+-'  1  4  ~/DMAWorkbook/sunilGitIgnore/sunlog1.txt
+|4,39,1,4,1627180308,"~/DMAWorkbook/sunilGitIgnore/sunlog1.txt"
 -'  1  4  ~/DMAWorkbook/sunilGitIgnore/sunlog1.txt
 |4,39,1,4,1627180308,"~/DMAWorkbook/sunilGitIgnore/sunlog1.txt"
 -'  1  4  ~/DMAWorkbook/sunilGitIgnore/sunlog1.txt
@@ -124,6 +160,38 @@
 |4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
 -'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
 |4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
+-'  1  2  ~/DMAWorkbook/sunilGitIgnore/lg1234.txt
+|4,39,1,2,1627180294,"~/DMAWorkbook/sunilGitIgnore/lg1234.txt"
 -'  1  0  ~/DMAWorkbook/.gitignore
 |4,39,1,0,1627179768,"~/DMAWorkbook/.gitignore"
 -'  1  0  ~/DMAWorkbook/.gitignore
@@ -188,85 +256,18 @@
 |4,39,1,0,1627179768,"~/DMAWorkbook/.gitignore"
 -'  1  0  ~/DMAWorkbook/.gitignore
 |4,39,1,0,1627179768,"~/DMAWorkbook/.gitignore"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
--'  3  15  ~/DMAWorkbook/ModifyStagedFile/CartDetailing.html
-|4,39,3,15,1627176735,"~/DMAWorkbook/ModifyStagedFile/CartDetailing.html"
+-'  1  0  ~/DMAWorkbook/.gitignore
+|4,39,1,0,1627179768,"~/DMAWorkbook/.gitignore"
 
 # History of marks within files (newest to oldest):
 
 > ~/README.md
-	*	1627346237	0
-	"	1	31
-	^	1	32
-	.	1	31
-	+	1	31
+	*	1627347260	0
+	"	2	3
+	^	2	4
+	.	2	3
+	+	1	32
+	+	2	3
 
 > ~/DMAWorkbook/Merge/CntPolling.html
 	*	1627262798	0
